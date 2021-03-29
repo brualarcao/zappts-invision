@@ -45,6 +45,7 @@ Tecnologias que utilizei para desenvolver o teste:
 
 ### Requisitos
 
+- [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en/)
 - [Yarn](https://classic.yarnpkg.com/) ou [npm](https://www.npmjs.com/)
 
